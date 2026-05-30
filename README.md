@@ -1,4 +1,3 @@
-```md
 <!-- ==================== HERO SECTION ==================== -->
 
 <h1 align="center">Dewang Gandhi</h1>
