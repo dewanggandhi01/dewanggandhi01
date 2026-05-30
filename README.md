@@ -47,14 +47,6 @@ My primary interests lie in:
 
 I enjoy building production-oriented systems that combine AI capabilities with practical real-world applications.
 
-### Currently Working On
-
-- Smart Tourist Safety Monitoring & Incident Response System
-- Autonomous LLM Agents
-- RAG Pipelines & Knowledge Systems
-- AI Developer Tooling
-- Full-Stack AI Applications
-
 ---
 
 ## Featured Projects
