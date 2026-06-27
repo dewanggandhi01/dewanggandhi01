@@ -76,7 +76,7 @@ class DewangGandhi:
 ## `> projects --highlight`
 
 <details open>
-<summary><b>🤖 Data Analyst Agent — AI-Powered Data Companion</b> &nbsp;|&nbsp; <code>Python · FastAPI · GenAI</code> &nbsp;|&nbsp; 2025</summary>
+<summary><b>Data Analyst Agent — AI-Powered Data Companion</b> &nbsp;|&nbsp; <code>Python · FastAPI · GenAI</code> &nbsp;|&nbsp; 2025</summary>
 <br/>
 
 > Engineered an AI-driven data analyst capable of handling **50+ analytical queries** across **5+ data formats** with automated insight generation and reporting in **under 3 minutes per request**.
@@ -88,7 +88,7 @@ class DewangGandhi:
 </details>
 
 <details open>
-<summary><b>🛡️ e-Raksha Setu — AI + Blockchain Tourist Safety Platform</b> &nbsp;|&nbsp; <code>AI · Blockchain · Geo-Fencing</code> &nbsp;|&nbsp; 2025</summary>
+<summary><b>e-Raksha Setu — AI + Blockchain Tourist Safety Platform</b> &nbsp;|&nbsp; <code>AI · Blockchain · Geo-Fencing</code> &nbsp;|&nbsp; 2025</summary>
 <br/>
 
 > Analyzed **10+ real-time risk factors** (weather, terrain, crime, network) to generate safe route recommendations with **<2 sec alert latency**.
@@ -100,7 +100,7 @@ class DewangGandhi:
 </details>
 
 <details open>
-<summary><b>📊 Gandhi Traders — Business Analytics & Inventory Optimization</b> &nbsp;|&nbsp; <code>Excel · Data Analysis · BI</code> &nbsp;|&nbsp; 2024</summary>
+<summary><b>Gandhi Traders — Business Analytics & Inventory Optimization</b> &nbsp;|&nbsp; <code>Excel · Data Analysis · BI</code> &nbsp;|&nbsp; 2024</summary>
 <br/>
 
 > Digitized **20+ days** of handwritten records, uncovering **₹13.1L revenue** & **₹1.16L profit** insights with SKU overstock and customer concentration analysis.
@@ -111,7 +111,7 @@ class DewangGandhi:
 </details>
 
 <details>
-<summary><b>💬 DΞBO — Real-Time Chat & Utility Platform</b> &nbsp;|&nbsp; <code>Node.js · Socket.io · Express.js</code> &nbsp;|&nbsp; 2025</summary>
+<summary><b>DΞBO — Real-Time Chat & Utility Platform</b> &nbsp;|&nbsp; <code>Node.js · Socket.io · Express.js</code> &nbsp;|&nbsp; 2025</summary>
 <br/>
 
 > Modular Node.js platform with real-time chat, file sharing, QR/link-based transfer & socket-based communication for seamless multi-user experience.
@@ -126,7 +126,7 @@ class DewangGandhi:
 <!-- TECH STACK -->
 ## `> tech --stack`
 
-### 🧠 AI & Machine Learning
+### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
@@ -138,14 +138,14 @@ class DewangGandhi:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -155,12 +155,12 @@ class DewangGandhi:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🗄️ Data & Databases
+### Data & Databases
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -196,7 +196,7 @@ class DewangGandhi:
 
 <div align="center">
 
-| 🏆 Achievement | 📌 Details |
+| Achievement | Details |
 |---|---|
 | 🥇 HackHeaven 2.0 Finalist | Top 12 out of **200+ teams** in 24hr hackathon |
 | 🥈 Paranox 2.0 Finalist | Competed against **1500+ participants** |
@@ -246,11 +246,11 @@ class DewangGandhi:
 
 ```yaml
 currently_seeking:
-  - 🤖 AI Engineering Internships
-  - 🧠 Machine Learning Roles
-  - 🌐 Open Source Contributions
-  - 🔬 Research Collaborations
-  - ⚡ Hackathons & Innovation Challenges
+  - AI Engineering Internships
+  - Machine Learning Roles
+  - Open Source Contributions
+  - Research Collaborations
+  - Hackathons & Innovation Challenges
 
 availability: Open to opportunities
 response_time: < 24 hours
@@ -266,7 +266,7 @@ preferred_contact: dewanggandhi2@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⚡ Let's build something intelligent together.**
+**Let's build something intelligent together.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DM%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewang-gandhi-2b62a5266/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewanggandhi2@gmail.com)
